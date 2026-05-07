@@ -1,0 +1,24 @@
+# model weights — too large for GitHub, hosted on Hugging Face
+models/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# environments
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# logs
+*.log
