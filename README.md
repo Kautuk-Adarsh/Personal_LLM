@@ -81,7 +81,7 @@ python main.py
 
 ## Live demo
 
-[huggingface.co/spaces/kautukadarsh/llm-chat](#)
+[CLICK HERE](https://huggingface.co/spaces/Kautuk2003/llm-chat )
 
 ## Versioning
 
